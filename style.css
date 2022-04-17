@@ -10,7 +10,7 @@
     width: 90%;
     display:grid;
     grid-template-columns:repeat(1 1fr);
-/*     grid-template-columns: 300px 700px; */
+    grid-template-columns: 300px 700px;
     margin:20px auto;
     background-color: #a5abf5;
     color: #000000;
